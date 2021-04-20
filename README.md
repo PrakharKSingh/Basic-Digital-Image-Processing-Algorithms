@@ -1,4 +1,4 @@
-## Matlab-Code-For-Basic-Digital-Image-Processing-Algorithms
+## Matlab Code For Basic Digital Image Processing Algorithms
 
 Bit Plane Slicing.
 
